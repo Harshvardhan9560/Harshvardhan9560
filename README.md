@@ -1,118 +1,120 @@
-# Hi, I'm Harshvardhan 👋
-> Passionate about building scalable software, learning new tech, and solving real-world problems.
+# Hi, I'm Harshvardhan Singh 👋
+
+I'm a Computer Science student who enjoys building web applications, solving DSA problems, and learning new technologies. Currently focusing on Full Stack Web Development and strengthening my problem-solving skills.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Harshvardhan-Singh-ff6b6b?style=for-the-badge&logo=github" alt="name-badge" />
+  <a href="mailto:harshvardhan.singh.work09@gmail.com">
+    <img src="https://img.shields.io/badge/Email-harshvardhan.singh.work09@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   &nbsp;
-  <a href="mailto:harshvardhan.singh.work09@gmail.com"><img src="https://img.shields.io/badge/Email-harshvardhan.singh.work09@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/harshvardhan-singh-550a48336/"><img src="https://img.shields.io/badge/LinkedIn-Harshvardhan_Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="https://www.linkedin.com/in/harshvardhan-singh-550a48336/">
+    <img src="https://img.shields.io/badge/LinkedIn-Harshvardhan%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Harshvardhan9560/Harshvardhan9560/main/assets/header-wave.svg" alt="wave" width="100%" style="max-width:900px" />
-</div>
+## 👨‍💻 About Me
 
-## About Me
-I am a software developer and problem solver with interests in full‑stack development, algorithms, and machine learning. I enjoy transforming ideas into polished products and learning new technologies along the way.
-
-- 🎓 Currently learning & building projects in web development and machine learning  
-- 🔭 I’m working on: improving my portfolio & open-source contributions  
-- 💬 Ask me about: Data Structures, Algorithms, Python, JavaScript, and backend design  
-- ⚡ Fun fact: I love optimizing code and writing clean, maintainable systems
+- 🎓 B.Tech CSE Student
+- 🌱 Currently learning **Node.js, Express.js, MongoDB and React**
+- 💻 Solving Data Structures & Algorithms problems regularly
+- 🚀 Interested in Full Stack Development and AI/ML
+- 📚 Always trying to build projects while learning
 
 ---
 
-## What I Do
-- Build responsive frontends and robust backends
-- Design data models & databases for scalable apps
-- Prototype ML experiments and deploy models
-- Automate workflows and CI/CD pipelines
-
----
-
-## Tech Stack
+## 🛠 Tech Stack
 
 ### Languages
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) 
-![C](https://img.shields.io/badge/-C-003B57?logo=c&logoColor=white) 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
 
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ### Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) 
-![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB) 
 
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-### Backend / Databases
+### Backend
 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-B4CA65?style=flat-square)
 
+### Database
 
-### DevOps & Tools
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) 
-![VS Code](https://img.shields.io/badge/-VS%20Code-0078D4?logo=visual-studio-code&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### Machine Learning / Data
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white) 
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+### Tools
 
----
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-## Skills (Logo Grid)
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="48" height="48" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="48" height="48" />
-</div>
+### Learning
 
----
-
-## Featured Projects
-> Projects listed below are placeholders — replace with your project names, short descriptions, and links.
-
-- 🔸 **Project One** — A one‑line project description. [View Repo](https://github.com/your/repo)
-- 🔸 **Project Two** — A short description about tech used and purpose. [View Repo](https://github.com/your/repo)
-- 🔸 **Project Three** — A small ML or web project summary. [View Repo](https://github.com/your/repo)
-
-Want me to populate this from your resume? Paste the project titles & descriptions and I'll fill them in.
+- Machine Learning
+- NumPy
+- Pandas
+- Scikit-Learn
 
 ---
 
-## GitHub Stats
+## 🚀 Projects
 
-<p align="left">
-  <img alt="Harsh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Harshvardhan9560&show_icons=true&theme=tokyonight" />
-  &nbsp;
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshvardhan9560&layout=compact&theme=tokyonight" />
-</p>
+### 🏡 SpaceHeaven
+
+A property listing web application inspired by Airbnb.
+
+**Tech Used**
+
+- Node.js
+- Express.js
+- MongoDB Atlas
+- Mongoose
+- EJS
+- Bootstrap
+
+**Features**
+
+- Create Listings
+- Edit Listings
+- Delete Listings
+- View Property Details
+- MongoDB Atlas Integration
+- Deployed on Vercel
+
+🔗 https://space-heaven.vercel.app
 
 ---
 
-## Let's Connect
-- 📧 Email: <a href="mailto:harshvardhan.singh.work09@gmail.com">harshvardhan.singh.work09@gmail.com</a>  
-- 🔗 LinkedIn: <a href="https://www.linkedin.com/in/harshvardhan-singh-550a48336/">harshvardhan-singh</a>
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="mailto:harshvardhan.singh.work09@gmail.com"><img src="https://img.shields.io/badge/Contact_Me-Email-blue?style=for-the-badge&logo=gmail" alt="contact" /></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/harshvardhan-singh-550a48336/"><img src="https://img.shields.io/badge/Connect_LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="linkedin" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=Harshvardhan9560&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshvardhan9560&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-If you'd like this README tailored even more:
-1. Share the exact list of skills (from your resume) and I’ll update the badges to match exactly.  
-2. Provide 2–3 real project names + one‑line descriptions and repo links and I’ll populate the "Featured Projects" section.  
-3. Tell me a color/theme you prefer (dark, light, colorful) and I will adjust the badges and stats theme.
+## 📫 Connect With Me
 
-Want me to commit this to a repo for you? If so, tell me the repo owner/name and I'll prepare a commit command you can run (or push it if you authorize).
+📧 **Email**
+
+harshvardhan.singh.work09@gmail.com
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/harshvardhan-singh-550a48336/
+
+⭐ Thanks for visiting my profile!
